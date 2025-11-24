@@ -54,7 +54,7 @@ The goal is to compare a **baseline MLP** against a **sequence-based LSTM** and 
 * Uses fully connected layers
 * Predicts power consumption from current feature snapshot
 * Fast and simple
-* Branch: `feature/mlp-model`
+* Branch: `MLP-Model`
 
 
 ---
@@ -64,7 +64,7 @@ The goal is to compare a **baseline MLP** against a **sequence-based LSTM** and 
 * Sequential model for time-series
 * Learns temporal dependencies
 * Uses sliding windows of past consumption
-* Branch: `feature/lstm-model`
+* Branch: `LSTM-Model`
 
 
 ---

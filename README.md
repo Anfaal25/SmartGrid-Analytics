@@ -18,10 +18,10 @@ The goal is to compare a **baseline MLP** against a **sequence-based LSTM** and 
 ## 👥 Team Members & Roles
 | Member | UCID | Role | Branch |
 |--------|------|-------|---------|
-| **Anfaal Mahbub** | 30140009 | Pair programming – MLP Model | `feature/lstm-model` |
+| **Anfaal Mahbub** | 30140009 | Pair programming – LSTM Model | `feature/lstm-model` |
 | **Joshua Koshy** | 30149273 | Pair programming – MLP Model | `feature/mlp-model` |
 | **Mehvish Shakeel** | 30161318 | Pair programming – LSTM Model | `feature/lstm-model` |
-| **Tara Cherian** | 30143816 | Pair programming – LSTM Model | `feature/mlp-model` |
+| **Tara Cherian** | 30143816 | Pair programming – MLP Model | `feature/mlp-model` |
 
 ---
 

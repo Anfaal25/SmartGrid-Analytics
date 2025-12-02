@@ -183,4 +183,4 @@ plt.legend()
 plt.tight_layout()
 plt.savefig("../results/lstm_mae_curves.png")
 
-print("🎉 All LSTM outputs saved successfully!")
+print("All outputs saved successfully!")

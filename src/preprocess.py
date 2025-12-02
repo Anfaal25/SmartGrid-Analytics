@@ -44,7 +44,7 @@ def preprocess(input_path, output_path):
     # Drop original string columns
     df = df.drop(columns=['Date', 'Time'])
 
-    print("🔢 Converting numeric columns...")
+    print("Converting numeric columns...")
 
     numeric_cols = [
         'Global_active_power',

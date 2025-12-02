@@ -115,7 +115,7 @@ metrics = {
     "MAE": float(mae)
 }
 
-print("📊 LSTM Metrics:", metrics)
+print("LSTM Metrics:", metrics)
 
 # --------------------------------------------------------------
 # 8. Save model + metrics + history

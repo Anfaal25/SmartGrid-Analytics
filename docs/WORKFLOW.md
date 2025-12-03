@@ -54,12 +54,15 @@ Output:
 ## 6. Evaluation
 Metrics saved as:
 - `results/lstm_metrics.json`
+- `results/mlp_metrics.json`
 
 
 Visualization:
 - `results/lstm_predictions.png`
 - `results/lstm_training_curves.png`
 - `results/lstm_mae_curves.png`
+- `results/mlp_predictions.png`
+- `results/mlp_training_curves.png`
 
 
 ---

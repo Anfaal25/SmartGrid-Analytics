@@ -24,4 +24,3 @@
 
 ## Conclusion
 The comparison shows how modeling temporal dependencies affects forecasting accuracy.  
-This satisfies the ENSF 519 requirement of comparing two deep learning models.

@@ -1,7 +1,7 @@
 # Team Roles – SmartGrid Analytics (ENSF 519)
 
 ## Group Members
-- **Anfaal Mahbub (30140009)** – LSTM Model Lead
+- **Anfaal Mahbub (30140009)** – LSTM Model Co-Developer
 - **Joshua Koshy (30149273)** – MLP Model Co-Developer
 - **Mehvish Shakeel (30161318)** – LSTM Pair Programming Partner
 - **Tara Cherian (30143816)** – MLP Pair Programming Partner

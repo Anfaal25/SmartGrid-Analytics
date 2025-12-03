@@ -38,4 +38,4 @@ We respect chronological order.
 - `/src` stores pure Python scripts
 - `/models` stores model weights
 - `/results` keeps evaluation artifacts
-- `/docs` holds documentation for the TA
+- `/docs` holds documentation 

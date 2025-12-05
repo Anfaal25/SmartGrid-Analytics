@@ -305,4 +305,13 @@ We use two pairing teams:
 - Maintaining clear GitHub commits
 - Reviewing model comparison
 - Ensuring smooth workflow across branches
+  
+---
 
+## Citations
+
+G. Hebrail and A. Berard. "Individual Household Electric Power Consumption," UCI Machine Learning Repository, 2006. [Online]. Available: https://doi.org/10.24432/C58K54.
+
+Generative AI was used for debugging and syntax.
+OpenAI. (2025). ChatGPT (Dec 2 version) [Large language model]. https://chat.openai.com/chat
+ 
